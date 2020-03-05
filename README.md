@@ -8,7 +8,7 @@ Make sure you have Android Studio installed.
 
 # Introduction
 
-Uses list view to display an items description, price, and item name of fruits.
+Uses List View to display an items description, price, and item name of fruits.
 
 # Getting Started
 
