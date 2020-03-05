@@ -1,6 +1,6 @@
 # ListApp
 
-Before downloading the app:
+# Before downloading the app:
 
 Make sure you have Java JDK Tools installed. 
 
@@ -8,7 +8,7 @@ Make sure you have Android Studio installed.
 
 # Introduction
 
-Uses List View to display an items description, price, and item name of fruits.
+This ListApp uses List View to display an items description, price, and item name of fruits.
 
 # Getting Started
 
